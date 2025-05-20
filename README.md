@@ -1,0 +1,2 @@
+# obsidian-libarary
+obsidian-note
