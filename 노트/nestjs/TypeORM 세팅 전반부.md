@@ -4,6 +4,7 @@
 2. typeORM
 3. DB 클라이언트(sqlite, mysql 등등)
 # 절차
+
 ## TypeORM Module 을 앱 모듈 에 넣는다.
 
 - 이 작업은 어플리케이션마다 1회만 하면 된다.
@@ -76,3 +77,4 @@ export class UsersModule {}
 
 export class AppModule {}
 ```
+
