@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트/nestjs/인터셉터.md",
+                "file": "노트/nestjs/Guard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인터셉터"
+              "title": "Guard"
             }
           }
         ],
@@ -184,8 +184,12 @@
   },
   "active": "bff1919dff7e2058",
   "lastOpenFiles": [
-    "노트/nestjs/응답 속성 제외.md",
+    "노트/nestjs/전역 인터셉터로 로그인.md",
+    "노트/nestjs/Guard.md",
+    "노트/nestjs/커스텀 데코레이터.md",
+    "노트/nestjs/Cookie-session 라이브러리.md",
     "노트/nestjs/인터셉터.md",
+    "노트/nestjs/응답 속성 제외.md",
     "노트/nestjs/TypeORM- Entity 메서드와 그냥 메서드.md",
     "노트/nestjs/TypeORM 세팅 후반부.md",
     "노트/nestjs/TypeORM 세팅 전반부.md",
@@ -209,10 +213,7 @@
     "노트/포트폴리오 구성 추천.md",
     "노트",
     "Welcome.md",
-    "Excalidraw/Flowchart.md",
-    "Excalidraw/Drawing 2025-05-08 14.00.37.excalidraw.md",
     "Excalidraw",
-    "create a link.md",
     "diagram"
   ]
 }
