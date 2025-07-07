@@ -11,17 +11,14 @@
             "id": "722d500773e3cd44",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MARS/2.0 아키텍처 다이어그램.canvas",
-                "viewState": {
-                  "x": -38.5,
-                  "y": -78.5,
-                  "zoom": 0
-                }
+                "file": "AI/RAG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2.0 아키텍처 다이어그램"
+              "icon": "lucide-file",
+              "title": "RAG"
             }
           }
         ]
@@ -172,6 +169,15 @@
   },
   "active": "722d500773e3cd44",
   "lastOpenFiles": [
+    "노트/mysql.md",
+    "AI/RAG.md",
+    "AI",
+    "노트/포트폴리오 구성 추천.md",
+    "노트/자소서 Star기법.md",
+    "diagram/mermaid-test.md",
+    "Welcome.md",
+    "1333.jpeg",
+    "Excalidraw/MARS/2.0 아키텍처 다이어그램.canvas",
     "Excalidraw/MARS/6.2. CICD.md",
     "Excalidraw/MARS/6.0. 팀원 소개.md",
     "Excalidraw/MARS/6.1. API 문서화.md",
@@ -182,7 +188,6 @@
     "Excalidraw/MARS/4.3.실시간 정보수집전략.md",
     "Excalidraw/MARS/4.2. 수집 주기 분리.excalidraw.md",
     "Excalidraw/MARS/4.1. API에는 제약이 있어요.md",
-    "Excalidraw/MARS/2.0 아키텍처 다이어그램.canvas",
     "Excalidraw/MARS/2.1 기술 스택.md",
     "취업상담/상담노트.md",
     "Excalidraw/MARS/2.2. 간트 차트.md",
@@ -195,13 +200,7 @@
     "Excalidraw/MARS/Drawing 2025-06-13 02.11.54.excalidraw.md",
     "Excalidraw/AI-Recommand-Flowchart.excalidraw.md",
     "Excalidraw/MARS/5.0.할루시네이션.canvas",
-    "Excalidraw/MARS/4.0 난제_정보 수집.excalidraw.md",
     "Pasted Image 20250613013523_718.png",
-    "Excalidraw/MARS/3.0 팀원소개.md",
-    "Excalidraw/MARS/3. 데모 시청.md",
-    "1333.jpeg",
-    "Excalidraw/MARS/4. 난제1_정보 수집.md",
-    "Welcome.md",
     "image.png",
     "Excalidraw/MARS",
     "노트/nestjs",
