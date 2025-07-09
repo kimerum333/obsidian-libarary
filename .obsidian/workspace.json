@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/week2/Day5 Agent.md",
+                "file": "AI/week5/Day2 RAG 전처리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day5 Agent"
+              "title": "Day2 RAG 전처리"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "cefe45784fd8236f",
@@ -169,45 +169,46 @@
   },
   "active": "722d500773e3cd44",
   "lastOpenFiles": [
+    "AI/week5/Day1 RAG 이론.md",
+    "AI/week5/Day2 RAG 전처리.md",
+    "AI/week4/Day1 벤치마크 지표들.md",
+    "AI/week5",
+    "AI/week4/Day1 친칠라 스케일링 법칙.md",
+    "AI/week4/Day1 LLM 선택의 기준(벤치마크).md",
+    "AI/week4/Day2 LLM 의 상업적 이용.md",
+    "AI/week4/Day1 리더보드.md",
+    "AI/week1/Day4 LLM 의 구성요소.md",
+    "AI/week1/Day2 프론티어 모델 이해하기.md",
+    "AI/week1/Day2 로컬 ollama 활용.md",
+    "AI/week2/Day2 Gradio.md",
+    "AI/week2/Day3 컨텍스트 프롬프팅.md",
     "AI/week2/Day4 Tools.md",
     "AI/week2/Day5 Agent.md",
-    "AI/week1/Day2 로컬 ollama 활용.md",
+    "AI/week3/Day4 HF Quantization, Local LM.md",
+    "AI/week3/Day3 HF Tokenizer.md",
+    "AI/week3/Day2 HuggingFace 활용.md",
+    "AI/week3/Day1 HuggingFace 소개.md",
+    "AI/week3/Day1 Google Colab 소개.md",
+    "AI/week4",
+    "AI/week3",
     "AI/week1/Day2 LLM 의 공부 순서.md",
     "AI/week1/Day3 6개의 상용 모델 비교.md",
-    "AI/week1/Day4 LLM 의 구성요소.md",
     "AI/week1/Day5 기본적인 LLM 아키텍처.md",
-    "AI/week2/Day3 컨텍스트 프롬프팅.md",
-    "AI/week2/Day2 Gradio.md",
     "AI/week1/Day1 LLM.md",
     "AI/week2",
     "AI/week1",
-    "AI/week1/Day2 프론티어 모델 이해하기.md",
     "노트/mysql.md",
     "AI",
     "노트/포트폴리오 구성 추천.md",
     "노트/자소서 Star기법.md",
-    "diagram/mermaid-test.md",
-    "Welcome.md",
     "1333.jpeg",
     "Excalidraw/MARS/2.0 아키텍처 다이어그램.canvas",
-    "Excalidraw/MARS/6.2. CICD.md",
-    "Excalidraw/MARS/6.0. 팀원 소개.md",
-    "Excalidraw/MARS/6.1. API 문서화.md",
-    "Excalidraw/MARS/5.2 전략 소개.md",
-    "Excalidraw/MARS/5.1 파이프라인.md",
-    "Excalidraw/MARS/5.0 할루시.md",
-    "Excalidraw/MARS/4.4.모듈화 전략.md",
-    "Excalidraw/MARS/4.3.실시간 정보수집전략.md",
-    "Excalidraw/MARS/4.2. 수집 주기 분리.excalidraw.md",
-    "Excalidraw/MARS/4.1. API에는 제약이 있어요.md",
     "취업상담",
     "Excalidraw/MARS/5.0.할루시네이션.canvas",
     "Pasted Image 20250613013523_718.png",
     "image.png",
     "Excalidraw/MARS",
     "노트/nestjs",
-    "노트",
-    "Excalidraw",
-    "diagram"
+    "노트"
   ]
 }
